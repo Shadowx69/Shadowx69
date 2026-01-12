@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, Haider Jehangir Mirza here!</h1>
 <h3 align="center">A Full Stack Developer and Software Engineering Student from Pakistan</h3>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=shadowx69" alt="shadowx69" />
-  </a>
-</p>
+<br>
 
 <table>
   <tr>
-    <td width="60%" valign="center">
+    <td width="60%" valign="top">
       <ul>
         <li>🔭 Currently building <strong>my FYP</strong></li>
         <li>🌱 Continuously upskilling in <strong>Next.js, Advanced React Patterns, and DevOps</strong></li>
@@ -22,25 +18,16 @@
       </ul>
     </td>
     <td width="40%" valign="center">
-      <img src="./laptop.gif" alt="Coding Animation" width="100%">
+      <img src="./Web Development.gif" alt="Web Development Animation" width="100%">
     </td>
   </tr>
 </table>
 
-<table>
-  <tr>
-    <td width="50%" valign="center">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=shadowx69&show_icons=true&theme=tokyonight&locale=en" alt="shadowx69" width="100%" />
-      <br><br>
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shadowx69&theme=dark" alt="shadowx69" width="100%" />
-    </td>
-    <td width="50%" valign="center">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shadowx69&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="shadowx69" width="100%" />
-      <br>
-      <img src="./Web Development.gif" alt="Tech Animation" width="100%">
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./laptop.gif" alt="Coding Animation" width="250">
+</p>
+
+<br>
 
 <h3 align="left">🛠 Languages and Tools:</h3>
 <p align="left">
