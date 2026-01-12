@@ -23,10 +23,6 @@
   </tr>
 </table>
 
-<p align="center">
-  <img src="./laptop.gif" alt="Coding Animation" width="250">
-</p>
-
 <br>
 
 <h3 align="left">🛠 Languages and Tools:</h3>
